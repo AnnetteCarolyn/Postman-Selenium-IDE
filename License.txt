@@ -1,0 +1,11 @@
+This repository is made on the basis of the course 
+
+https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/learn/lecture/28926060?start=0#overview, 
+
+https://www.udemy.com/course/api-and-web-service-introduction/?start=285,
+
+https://www.udemy.com/course/learn-c-sharp-programming-in-ten-easy-steps/#reviews
+
+and on the materials available freely on the Internet.
+
+Selenium IDE Projects are made solely by me.
